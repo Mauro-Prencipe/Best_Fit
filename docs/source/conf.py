@@ -14,6 +14,8 @@ import os
 import sys
 import numpy
 import matplotlib
+import pandas
+import scipy
 sys.path.insert(0, os.path.abspath('../../'))
 
 
