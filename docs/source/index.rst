@@ -18,6 +18,7 @@ di ottimizzazione *non lineare* con funzioni *modello* definite dall'utente.
 
    files
    usage
+   best_fit_advanced
 
 Indices
 =======
