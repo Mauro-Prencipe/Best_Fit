@@ -1,9 +1,9 @@
 # best fit di una serie di dati con varie funzioni
 # Dati di input nel file best_fit.txt  
 
-# from IPython import get_ipython
-# get_ipython().magic('cls')
-# get_ipython().magic('reset -sf')
+from IPython import get_ipython
+get_ipython().magic('cls')
+get_ipython().magic('reset -sf')
 
 # import delle librerie di python
 import numpy as np
