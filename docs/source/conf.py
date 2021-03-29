@@ -15,6 +15,7 @@ import sys
 import numpy
 import pandas
 import matplotlib
+import scipy
 import IPython
 sys.path.insert(0, os.path.abspath('../'))
 
