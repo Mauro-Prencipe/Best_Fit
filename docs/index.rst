@@ -18,3 +18,4 @@ di ottimizzazione *non lineare* con funzioni *modello* definite dall'utente.
 
    files
    usage
+   * :ref:`genindex`
