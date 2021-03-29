@@ -16,7 +16,6 @@ import numpy
 import matplotlib
 import pandas
 import scipy
-import IPython
 sys.path.insert(0, os.path.abspath('.'))
 
 
