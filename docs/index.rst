@@ -9,7 +9,7 @@ Welcome to Best_Fit's documentation!
 Programma per l'interpolazione di dati secondo il metodo dei *minimi quadrati lineari*, o secondo tecniche numeriche
 di ottimizzazione *non lineare* con funzioni *modello* definite dall'utente. 
 
-.. image:: _images/immagine.png
+.. image:: source/_images/immagine.png
 
 .. toctree::
    :maxdepth: 3
